@@ -1,7 +1,5 @@
 import pygame
-import math
 import random
-
 
 #set constants
 height = 512
