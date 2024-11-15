@@ -2,6 +2,7 @@ import pygame
 import math
 import random
 
+#comment
 #set constants
 height = 512
 width = 640
